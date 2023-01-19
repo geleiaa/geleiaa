@@ -1,9 +1,9 @@
-### ![Guilherme F.](https://www.linkedin.com/in/guilherme-ferreira-48b135247/)
+## <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/">Guilherme F.</a>
 > ## Sobre mim
 * Dev Web Junior - MERN stack
   * Script Kiddie
     - ```branch main``` Estudando desenvolvimento web voltado para backend e infra como código
-      - ```branch security``` Estudando segurança ofensiva - WebHacking - Pentest - MalwareDev
+      - ```branch security``` Estudando segurança ofensiva - WebHacking - Pentest 
 
 
 [![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=geleiaa&show_icons=true&theme=chartreuse-dark)](https://github.com/geleiaa)
@@ -28,12 +28,12 @@
 
 > ## Aprendendo ```branch main``` 
 
-- Design Patterns para javascript
+- Microservices
 - Princípios de Arquitetura e Desenvolvimento de software 
 - DevOps / Infra as Coda 
 
 > ## Contato
 
-- ![Linkedin](https://www.linkedin.com/in/guilherme-ferreira-48b135247/)
+- <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" >Linkedin</a>
 - ##### email - geleiaa@duck.com
-- ![TryHackMe](https://tryhackme.com/p/gleleiauu)
+- <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a>
