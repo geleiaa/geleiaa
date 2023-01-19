@@ -3,7 +3,7 @@
 * Dev Web Junior - MERN stack
   * Script Kiddie
     - ```branch main``` Estudando desenvolvimento web voltado para backend e infra como código
-      - ```branch security``` Estudando segurança ofensiva - WebHacking - Pentest - RedTeam
+      - ```branch security``` Estudando segurança ofensiva - WebHacking - Pentest - MalwareDev
 
 
 [![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=geleiaa&show_icons=true&theme=chartreuse-dark)](https://github.com/geleiaa)
