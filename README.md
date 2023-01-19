@@ -26,7 +26,7 @@
 - Linux (Mint, Ubuntu, Kali)
 - Docker
 
-> ## Aprendendo
+> ## Aprendendo ```branch main``` 
 
 - Design Patterns para javascript
 - Princípios de Arquitetura e Desenvolvimento de software 
