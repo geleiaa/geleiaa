@@ -30,7 +30,7 @@
 
 - Microservices
 - Princípios de Arquitetura e Desenvolvimento de software 
-- DevOps / Infra as Coda 
+- DevOps / Infra as Code
 
 > ## Contato
 
