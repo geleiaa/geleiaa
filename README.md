@@ -2,23 +2,32 @@
 > ## Sobre mim
 * Dev Web Junior - MERN stack
   * Script Kiddie
-    - ```branch main``` Estudando desenvolvimento web voltado para backend e infra como código
-      - ```branch security``` Estudando segurança ofensiva - WebHacking - Pentest 
-
-
-[![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=geleiaa&show_icons=true&theme=chartreuse-dark)](https://github.com/geleiaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geleiaa&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/geleiaa)
+    - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Estudando desenvolvimento web voltado para backend e infra como código
+      - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva - WebHacking - Pentest 
 
 
 <div style="display: inline_block"><br>
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 
-> ## Tecnologias
+
+<a href="https://github.com/geleiaa">
+    <img src="https://github-stats-alpha.vercel.app/api?username=geleiaa&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+
+[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geleiaa&theme=tokyonight) 
+[](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geleiaa&theme=tokyonight) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geleiaa&layout=compact&show_icons=true&theme=dark)](https://github.com/geleiaa) 
+
+
+> ## Tecnologias <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />
 
 - Javascript
 - Node.js 
@@ -26,7 +35,7 @@
 - Linux (Mint, Ubuntu, Kali)
 - Docker
 
-> ## Aprendendo ```branch main``` 
+> ## Aprendendo  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> ```branch main``` 
 
 - Microservices
 - Princípios de Arquitetura e Desenvolvimento de software 
@@ -34,6 +43,6 @@
 
 > ## Contato
 
-- <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" >Linkedin</a>
+- <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" > <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
 - ##### email - geleiaa@duck.com
 - <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a>
