@@ -1,5 +1,5 @@
 > ## Sobre mim
-* Dev Web Junior - MERN stack
+* Dev Web Junior 
   * Script Kiddie
     - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Estudando desenvolvimento web voltado para backend e infra como código
       - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva - WebHacking - Pentest 
@@ -13,7 +13,7 @@
 [](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geleiaa&theme=tokyonight) 
 [](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geleiaa&theme=tokyonight) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geleiaa&layout=compact&show_icons=true&theme=dark)](https://github.com/geleiaa) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geleiaa&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/geleiaa) 
 
 <div style="display: inline_block"><br>
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
