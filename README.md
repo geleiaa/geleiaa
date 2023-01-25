@@ -34,8 +34,8 @@
 
 * ## Aprendendo agora <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> ```branch main``` 
 
-- Microservices
-  - Princípios de Arquitetura e Desenvolvimento de software 
+- Princípios de Arquitetura e Desenvolvimento de software
+  - Microservices 
     - DevOps / Infra as Code
 
 * ## Contato
