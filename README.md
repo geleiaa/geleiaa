@@ -32,7 +32,7 @@
       - Linux (Mint, Ubuntu, Kali)
         - Docker
 
-* ## Aprendendo  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> ```branch main``` 
+* ## Aprendendo agora <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> ```branch main``` 
 
 - Microservices
   - Princípios de Arquitetura e Desenvolvimento de software 
