@@ -1,9 +1,14 @@
-> ## Sobre mim
+> ## Sobre mim <img src=https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif />
 * Dev Web Junior 
   * Script Kiddie
     - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Estudando desenvolvimento web voltado para backend e infra como código
-      - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva - WebHacking - Pentest 
+      - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva - WebHacking - Pentest
+      
+      
 
+      - <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" > <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
+  - ##### email - geleiaa@duck.com
+- <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a>
 
 <a href="https://github.com/geleiaa">
     <img src="https://github-stats-alpha.vercel.app/api?username=geleiaa&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -18,7 +23,6 @@
 <div style="display: inline_block"><br>
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
@@ -38,8 +42,3 @@
   - Microservices 
     - DevOps / Infra as Code
 
-* ## Contato
-
-- <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" > <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
-  - ##### email - geleiaa@duck.com
-    - <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a>
