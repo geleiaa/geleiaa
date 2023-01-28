@@ -10,10 +10,10 @@
   - ##### email - geleiaa@duck.com
 - <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a>
 
-<a href="https://github.com/geleiaa">
-    <img src="https://github-stats-alpha.vercel.app/api?username=geleiaa&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+
 </a>
-<a href="https://github.com/geleiaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geleiaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/geleiaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geleiaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/</a> <a href="https://github.com/geleiaa">
+    <img src="https://github-stats-alpha.vercel.app/api?username=geleiaa&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
 
 
