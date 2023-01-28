@@ -8,7 +8,7 @@
 
       - <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" > <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
   - ##### email - geleiaa@duck.com
-- <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a>
+<!-- <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a> -->
 
 
 </a>
