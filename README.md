@@ -2,7 +2,7 @@
 * Dev Web Junior 
   * Script Kiddie
     - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Estudando desenvolvimento web voltado para backend e infra como código
-      - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva - WebHacking - Pentest
+      - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva
       
 
 
@@ -41,7 +41,7 @@
 
 - Javascript
   - Node.js 
-    - Git/Github
+    - Git / Github
       - Linux (Mint, Ubuntu, Kali)
         - Docker
 
@@ -50,7 +50,6 @@
 
 > ## Aprendendo agora <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> ```branch main``` 
 
-- Princípios de Arquitetura e Desenvolvimento de software
   - Microservices 
     - DevOps / Infra as Code
 
