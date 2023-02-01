@@ -1,16 +1,13 @@
-> ## Sobre mim <img src=https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif />
+> ## Sobre mim - <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" > <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a> <img src=https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif />
 * Dev Web Junior 
   * Script Kiddie
     - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Estudando desenvolvimento web voltado para backend e infra como código
       - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva
-      
-
-
-      - <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-LinkedIn-F5F5F5?style=flat&logo=linkedin&logoColor=black" alt="linkedin" /> </a>
-  - ##### email - geleiaa@duck.com
+    - ##### email para contato ou xingamentos :) - geleiaa@duck.com
+  
+  
 <!-- <a href="https://tryhackme.com/p/gleleiauu">TryHackMe</a> -->
-<!-- <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" > <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a> -->
+
 
 </a>
 <a href="https://github.com/geleiaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geleiaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/</a> <a href="https://github.com/geleiaa">
