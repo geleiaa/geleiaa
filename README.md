@@ -40,7 +40,7 @@
 > ## Aprendendo agora <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> ```branch main``` 
 
   - Microservices 
-    - DevOps / Infra as Code
+    - Rust 
 
 
 <a href="http://www.github.com/geleiaa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=geleiaa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
