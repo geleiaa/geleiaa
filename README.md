@@ -17,7 +17,6 @@
   <a href="https://www.docker.com/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" /></a>&nbsp;
 </div>
 
-- Javascript
   - Node.js 
     - Git / Github
       - Linux (Mint, Ubuntu, Kali)
