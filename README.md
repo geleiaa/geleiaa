@@ -1,9 +1,8 @@
 > ## Sobre mim - <a href="https://www.linkedin.com/in/guilherme-ferreira-48b135247/" > <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a> <img src=https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif />
-* Dev Web Junior 
-  * Script Kiddie
-    - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Estudando desenvolvimento web voltado para backend e infra como código
-      - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva
-    - ##### email para contato ou xingamentos :) - geleiaa@duck.com
+* Junior Web Developer
+  - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Estudando desenvolvimento web voltado para backend e infra como código
+      - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Estudando segurança ofensiva / red team
+  - email para contato - geleiaa@duck.com
   
 
 > ## Skills <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />
