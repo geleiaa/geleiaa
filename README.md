@@ -2,8 +2,9 @@
 * Junior Web Developer
   - ```branch main``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestNeutral.svg" /> Learning web development focused on backend and infra as code
       - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Learning offensive security
+      
   - email for contact - geleiaa@duck.com
-  
+- see my blog - https://geleia-blog.vercel.app/   
 
 > ## Skills <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />
 
