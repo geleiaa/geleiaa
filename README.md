@@ -4,7 +4,7 @@
       - ```branch security``` <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" /> Learning offensive security
       
   - email for contact - geleiaa@duck.com
-- see my blog(buildin) - https://geleia-blog.vercel.app/   
+- see my blog :) - https://geleia-blog.vercel.app/   
 
 > ## Skills <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />
 
