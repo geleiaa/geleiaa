@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <!-- <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> -->
-  <img height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" />
+  <img height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
   <img height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
   <img height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />
   <img height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
@@ -22,7 +22,7 @@
 </div>
 
   - Node.js 
-    - Next js
+    - Typescript
       - MongoDB and PostgresSQL
         - Git / Github
           - Linux (Mint, Ubuntu, Kali)
